@@ -20,14 +20,14 @@ $$
 - The majority of an iOS developer’s work involves rendering screens through the UICollectionView.
     - Examples
         
-        ![IMG_INTRODUCE_1.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_INTRODUCE_1.png)
+        ![IMG_INTRODUCE_1.png](Son-heung-min-project/IMG_INTRODUCE_1.png)
         
-        ![IMG_INTRODUCE_2.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_INTRODUCE_2.png)
+        ![IMG_INTRODUCE_2.png](Son-heung-min-project/IMG_INTRODUCE_2.png)
         
 - How should develop to achieve high leverage?
 - Strategy Map
     
-    ![IMG_INPUT_OUTPUT.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_INPUT_OUTPUT.png)
+    ![IMG_INPUT_OUTPUT.png](Son-heung-min-project/IMG_INPUT_OUTPUT.png)
     
     - From the user’s view, Let’s define only **deltas** only to **input** and **output**.
     - From the module’s view, establish **common rules** and only **open up parts** that require customization.
@@ -202,17 +202,17 @@ $$
 - Management of the tasks.
     - Normal case
         
-        ![IMG_LOADER.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_LOADER.png)
+        ![IMG_LOADER.png](Son-heung-min-project/IMG_LOADER.png)
         
     - Error handling case
 
-        ![IMG_EXCEPTION_IGNORE.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_EXCEPTION_IGNORE.png)
+        ![IMG_EXCEPTION_IGNORE.png](Son-heung-min-project/IMG_EXCEPTION_IGNORE.png)
         
-        ![IMG_EXCEPTION_CANCEL.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_EXCEPTION_CANCEL.png)        
+        ![IMG_EXCEPTION_CANCEL.png](Son-heung-min-project/IMG_EXCEPTION_CANCEL.png)        
         
     - Applied to UI
         
-        ![IMG_FINAL.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_FINAL.png)
+        ![IMG_FINAL.png](Son-heung-min-project/IMG_FINAL.png)
         
 - Error handling policy
     - `ignore`
