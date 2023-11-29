@@ -20,14 +20,14 @@ $$
 - The majority of an iOS developer’s work involves rendering screens through the UICollectionView.
     - Examples
         
-        ![IMG_1125.PNG.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_1125.PNG.png)
+        ![IMG_INTRODUCE_1.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_INTRODUCE_1.png)
         
-        ![IMG_1126.PNG.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_1126.PNG.png)
+        ![IMG_INTRODUCE_2.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_INTRODUCE_2.png)
         
 - How should develop to achieve high leverage?
 - Strategy Map
     
-    ![Screenshot 2023-11-10 at 11.39.53 AM.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/Screenshot_2023-11-10_at_11.39.53_AM.png)
+    ![IMG_INPUT_OUTPUT.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_INPUT_OUTPUT.png)
     
     - From the user’s view, Let’s define only **deltas** only to **input** and **output**.
     - From the module’s view, establish **common rules** and only **open up parts** that require customization.
@@ -202,17 +202,17 @@ $$
 - Management of the tasks.
     - Normal case
         
-        ![Screenshot 2023-11-10 at 1.44.55 PM.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/Screenshot_2023-11-10_at_1.44.55_PM.png)
+        ![IMG_LOADER.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_LOADER.png)
         
     - Error handling case
+
+        ![IMG_EXCEPTION_IGNORE.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_EXCEPTION_IGNORE.png)
         
-        !['.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa.png)
-        
-        ![Screenshot 2023-11-10 at 1.47.03 PM.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/Screenshot_2023-11-10_at_1.47.03_PM.png)
+        ![IMG_EXCEPTION_CANCEL.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_EXCEPTION_CANCEL.png)        
         
     - Applied to UI
         
-        ![IMG_1126.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_1126.png)
+        ![IMG_FINAL.png](Son%20Heung-min%20project%2007f33a84a9f046fe9fdce8ef74d642fa/IMG_FINAL.png)
         
 - Error handling policy
     - `ignore`
